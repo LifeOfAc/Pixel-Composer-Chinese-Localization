@@ -712,7 +712,7 @@
     ]
   },
   "Node_3D_Mesh_Export":{
-    "name":"导出模型(obj)",
+    "name":"导出(obj)",
     "tooltip":"将3D网格导出为.obj文件",
     "inputs":[
       {
@@ -18188,7 +18188,7 @@
     ]
   },
   "Node_Random_Shape":{
-    "name":"随机图案",
+    "name":"随机形状",
     "tooltip":"根据种子生成随机形状图案",
     "inputs":[
       {
@@ -19662,7 +19662,7 @@
     ]
   },
   "Node_Scatter":{
-    "name":"散射",
+    "name":"随机分布图案",
     "tooltip":"随机多次散射图像",
     "inputs":[
       {

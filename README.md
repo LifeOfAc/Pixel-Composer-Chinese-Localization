@@ -14,7 +14,6 @@ The simplified chinese localization file for Pixel-Composer
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 # 软件交流
 
-像素特效交流🐧频道:[Pixel Composer像素特效交流汉化](https://pd.qq.com/s/3wjk3p8hd)
 像素特效交流🐧群:[965593104](https://qm.qq.com/q/OJq4AY2z4e)
 
 # 进度
@@ -58,11 +57,10 @@ Pixel-Composer-Chinese-Localization/
 ├── Welcome files/
 
 ├── zh/
-├── zh pro/
 
 └── 一键汉化软件
 
-打开一键汉化工具文件夹，把Welcome files文件夹zh或zh pro文件夹复制进去，然后打开软件选择需要的汉化点击即可
+打开一键汉化工具文件夹，把Welcome files文件夹zh文件夹复制进去，然后打开软件选择需要的汉化点击即可
 
 ## 手动汉化（如果自动汉化失败请参考手动汉化）
 

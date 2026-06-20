@@ -46,7 +46,7 @@ The simplified chinese localization file for Pixel-Composer
 
 ✅ 修改本地目录后仍然可以识别语言文件夹
 
-❌ 自动从网络获取最新汉化包
+✅ 自动从网络获取最新汉化包
 
 ## 一键汉化
 
